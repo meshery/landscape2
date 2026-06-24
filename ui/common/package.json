@@ -34,7 +34,7 @@
     "tsup-preset-solid": "^2.2.0",
     "typescript": "^5.2.2",
     "typescript-eslint": "^7.12.0",
-    "vite": "^5.2.0",
+    "vite": "^5.3.6",
     "vite-plugin-solid": "^2.10.2"
   },
   "exports": {
